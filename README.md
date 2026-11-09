@@ -17,5 +17,5 @@ SheetMaster is an interactive UI/UX mobile application prototype designed for sh
 
 ### How to View the Prototype
 - Open the `.xd` file in Adobe XD to inspect the artboards, design system, and interactive wireframes.
-- *Optional:* https://xd.adobe.com/view/a8afa9dd-f372-40dd-8f28-28036e9c45ca-fdfc/
+- *Link:* https://xd.adobe.com/view/a8afa9dd-f372-40dd-8f28-28036e9c45ca-fdfc/
 
