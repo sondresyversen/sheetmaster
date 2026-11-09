@@ -11,9 +11,8 @@ SheetMaster is an interactive UI/UX mobile application prototype designed for sh
 - Adobe XD (UI/UX Design & Prototyping)
 
 ### Design & User Flow
-1. **Onboarding & Dashboard:** Quick access to recent sheet music, daily practice goals, and progress tracking.
-2. **Music Library:** A structured categorization system for finding sheets based on difficulty, genre, or instrument.
-3. **Interactive Player:** A clean viewport designed for displaying sheets with playback tools and metronome integration.
+1. **Onboarding & Dashboard:** Quick access to recent sheet music, popular songs, and account settings.
+2. **Music Library:** A library for easy access to your favourite songs.
 
 ### How to View the Prototype
 - Open the link to inspect the artboards, design system, and interactive wireframes.
